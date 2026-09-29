@@ -1,0 +1,249 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="790" viewBox="0 0 1060 790">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#20242a}.title{font-size:21px;font-weight:bold}.label{font-size:15px}.tick{font-size:12px;fill:#5b6470}.grid{stroke:#dce2e8;stroke-width:1}.axis{stroke:#6e7885;stroke-width:1.2}</style>
+<text x="28" y="31" class="title">Dense random graphs: exact optimum vs. Algorithm 1</text>
+<line x1="28" y1="56" x2="62" y2="56" stroke="#1675b8" stroke-width="3"/><text x="70" y="61" class="label">Exact optimum</text>
+<line x1="240" y1="56" x2="274" y2="56" stroke="#d44b34" stroke-width="3"/><text x="282" y="61" class="label">Best of five full runs</text>
+<text x="30" y="104" class="label">G30_p55_s6: n=30, m=231</text>
+<line x1="79" y1="332.0" x2="495" y2="332.0" class="grid"/>
+<text x="57" y="336.0" class="tick">0</text>
+<line x1="79" y1="314.8" x2="495" y2="314.8" class="grid"/>
+<text x="57" y="318.8" class="tick">1</text>
+<line x1="79" y1="297.5" x2="495" y2="297.5" class="grid"/>
+<text x="57" y="301.5" class="tick">2</text>
+<line x1="79" y1="280.2" x2="495" y2="280.2" class="grid"/>
+<text x="57" y="284.2" class="tick">3</text>
+<line x1="79" y1="263.0" x2="495" y2="263.0" class="grid"/>
+<text x="57" y="267.0" class="tick">4</text>
+<line x1="79" y1="245.8" x2="495" y2="245.8" class="grid"/>
+<text x="57" y="249.8" class="tick">5</text>
+<line x1="79" y1="228.5" x2="495" y2="228.5" class="grid"/>
+<text x="57" y="232.5" class="tick">6</text>
+<line x1="79" y1="211.2" x2="495" y2="211.2" class="grid"/>
+<text x="57" y="215.2" class="tick">7</text>
+<line x1="79" y1="194.0" x2="495" y2="194.0" class="grid"/>
+<text x="57" y="198.0" class="tick">8</text>
+<line x1="79" y1="176.8" x2="495" y2="176.8" class="grid"/>
+<text x="57" y="180.8" class="tick">9</text>
+<line x1="79" y1="159.5" x2="495" y2="159.5" class="grid"/>
+<text x="57" y="163.5" class="tick">10</text>
+<line x1="79" y1="142.2" x2="495" y2="142.2" class="grid"/>
+<text x="57" y="146.2" class="tick">11</text>
+<line x1="79" y1="125.0" x2="495" y2="125.0" class="grid"/>
+<text x="57" y="129.0" class="tick">12</text>
+<line x1="79" y1="332" x2="495" y2="332" class="axis"/>
+<text x="72.0" y="350" class="tick">10</text>
+<text x="118.2" y="350" class="tick">12</text>
+<text x="164.4" y="350" class="tick">14</text>
+<text x="210.7" y="350" class="tick">16</text>
+<text x="256.9" y="350" class="tick">18</text>
+<text x="303.1" y="350" class="tick">20</text>
+<text x="349.3" y="350" class="tick">22</text>
+<text x="395.6" y="350" class="tick">24</text>
+<text x="441.8" y="350" class="tick">26</text>
+<text x="488.0" y="350" class="tick">28</text>
+<polyline points="79.0,211.2 125.2,194.0 171.4,176.8 217.7,176.8 263.9,159.5 310.1,159.5 356.3,142.2 402.6,142.2 448.8,125.0 495.0,125.0" fill="none" stroke="#1675b8" stroke-width="2.8"/>
+<circle cx="79.0" cy="211.2" r="4" fill="#1675b8"/>
+<circle cx="125.2" cy="194.0" r="4" fill="#1675b8"/>
+<circle cx="171.4" cy="176.8" r="4" fill="#1675b8"/>
+<circle cx="217.7" cy="176.8" r="4" fill="#1675b8"/>
+<circle cx="263.9" cy="159.5" r="4" fill="#1675b8"/>
+<circle cx="310.1" cy="159.5" r="4" fill="#1675b8"/>
+<circle cx="356.3" cy="142.2" r="4" fill="#1675b8"/>
+<circle cx="402.6" cy="142.2" r="4" fill="#1675b8"/>
+<circle cx="448.8" cy="125.0" r="4" fill="#1675b8"/>
+<circle cx="495.0" cy="125.0" r="4" fill="#1675b8"/>
+<polyline points="79.0,263.0 125.2,228.5 171.4,245.8 217.7,211.2 263.9,194.0 310.1,194.0 356.3,176.8 402.6,159.5 448.8,142.2 495.0,125.0" fill="none" stroke="#d44b34" stroke-width="2.8"/>
+<circle cx="79.0" cy="263.0" r="4" fill="#d44b34"/>
+<circle cx="125.2" cy="228.5" r="4" fill="#d44b34"/>
+<circle cx="171.4" cy="245.8" r="4" fill="#d44b34"/>
+<circle cx="217.7" cy="211.2" r="4" fill="#d44b34"/>
+<circle cx="263.9" cy="194.0" r="4" fill="#d44b34"/>
+<circle cx="310.1" cy="194.0" r="4" fill="#d44b34"/>
+<circle cx="356.3" cy="176.8" r="4" fill="#d44b34"/>
+<circle cx="402.6" cy="159.5" r="4" fill="#d44b34"/>
+<circle cx="448.8" cy="142.2" r="4" fill="#d44b34"/>
+<circle cx="495.0" cy="125.0" r="4" fill="#d44b34"/>
+<text x="540" y="104" class="label">G30_p55_s12: n=30, m=252</text>
+<line x1="589" y1="332.0" x2="1005" y2="332.0" class="grid"/>
+<text x="567" y="336.0" class="tick">0</text>
+<line x1="589" y1="316.1" x2="1005" y2="316.1" class="grid"/>
+<text x="567" y="320.1" class="tick">1</text>
+<line x1="589" y1="300.2" x2="1005" y2="300.2" class="grid"/>
+<text x="567" y="304.2" class="tick">2</text>
+<line x1="589" y1="284.2" x2="1005" y2="284.2" class="grid"/>
+<text x="567" y="288.2" class="tick">3</text>
+<line x1="589" y1="268.3" x2="1005" y2="268.3" class="grid"/>
+<text x="567" y="272.3" class="tick">4</text>
+<line x1="589" y1="252.4" x2="1005" y2="252.4" class="grid"/>
+<text x="567" y="256.4" class="tick">5</text>
+<line x1="589" y1="236.5" x2="1005" y2="236.5" class="grid"/>
+<text x="567" y="240.5" class="tick">6</text>
+<line x1="589" y1="220.5" x2="1005" y2="220.5" class="grid"/>
+<text x="567" y="224.5" class="tick">7</text>
+<line x1="589" y1="204.6" x2="1005" y2="204.6" class="grid"/>
+<text x="567" y="208.6" class="tick">8</text>
+<line x1="589" y1="188.7" x2="1005" y2="188.7" class="grid"/>
+<text x="567" y="192.7" class="tick">9</text>
+<line x1="589" y1="172.8" x2="1005" y2="172.8" class="grid"/>
+<text x="567" y="176.8" class="tick">10</text>
+<line x1="589" y1="156.8" x2="1005" y2="156.8" class="grid"/>
+<text x="567" y="160.8" class="tick">11</text>
+<line x1="589" y1="140.9" x2="1005" y2="140.9" class="grid"/>
+<text x="567" y="144.9" class="tick">12</text>
+<line x1="589" y1="125.0" x2="1005" y2="125.0" class="grid"/>
+<text x="567" y="129.0" class="tick">13</text>
+<line x1="589" y1="332" x2="1005" y2="332" class="axis"/>
+<text x="582.0" y="350" class="tick">10</text>
+<text x="628.2" y="350" class="tick">12</text>
+<text x="674.4" y="350" class="tick">14</text>
+<text x="720.7" y="350" class="tick">16</text>
+<text x="766.9" y="350" class="tick">18</text>
+<text x="813.1" y="350" class="tick">20</text>
+<text x="859.3" y="350" class="tick">22</text>
+<text x="905.6" y="350" class="tick">24</text>
+<text x="951.8" y="350" class="tick">26</text>
+<text x="998.0" y="350" class="tick">28</text>
+<polyline points="589.0,220.5 635.2,204.6 681.4,188.7 727.7,172.8 773.9,172.8 820.1,156.8 866.3,140.9 912.6,140.9 958.8,125.0 1005.0,125.0" fill="none" stroke="#1675b8" stroke-width="2.8"/>
+<circle cx="589.0" cy="220.5" r="4" fill="#1675b8"/>
+<circle cx="635.2" cy="204.6" r="4" fill="#1675b8"/>
+<circle cx="681.4" cy="188.7" r="4" fill="#1675b8"/>
+<circle cx="727.7" cy="172.8" r="4" fill="#1675b8"/>
+<circle cx="773.9" cy="172.8" r="4" fill="#1675b8"/>
+<circle cx="820.1" cy="156.8" r="4" fill="#1675b8"/>
+<circle cx="866.3" cy="140.9" r="4" fill="#1675b8"/>
+<circle cx="912.6" cy="140.9" r="4" fill="#1675b8"/>
+<circle cx="958.8" cy="125.0" r="4" fill="#1675b8"/>
+<circle cx="1005.0" cy="125.0" r="4" fill="#1675b8"/>
+<polyline points="589.0,236.5 635.2,236.5 681.4,220.5 727.7,204.6 773.9,188.7 820.1,188.7 866.3,172.8 912.6,156.8 958.8,140.9 1005.0,125.0" fill="none" stroke="#d44b34" stroke-width="2.8"/>
+<circle cx="589.0" cy="236.5" r="4" fill="#d44b34"/>
+<circle cx="635.2" cy="236.5" r="4" fill="#d44b34"/>
+<circle cx="681.4" cy="220.5" r="4" fill="#d44b34"/>
+<circle cx="727.7" cy="204.6" r="4" fill="#d44b34"/>
+<circle cx="773.9" cy="188.7" r="4" fill="#d44b34"/>
+<circle cx="820.1" cy="188.7" r="4" fill="#d44b34"/>
+<circle cx="866.3" cy="172.8" r="4" fill="#d44b34"/>
+<circle cx="912.6" cy="156.8" r="4" fill="#d44b34"/>
+<circle cx="958.8" cy="140.9" r="4" fill="#d44b34"/>
+<circle cx="1005.0" cy="125.0" r="4" fill="#d44b34"/>
+<text x="30" y="434" class="label">G32_p55_s1: n=32, m=275</text>
+<line x1="79" y1="662.0" x2="495" y2="662.0" class="grid"/>
+<text x="57" y="666.0" class="tick">0</text>
+<line x1="79" y1="647.2" x2="495" y2="647.2" class="grid"/>
+<line x1="79" y1="632.4" x2="495" y2="632.4" class="grid"/>
+<text x="57" y="636.4" class="tick">2</text>
+<line x1="79" y1="617.6" x2="495" y2="617.6" class="grid"/>
+<line x1="79" y1="602.9" x2="495" y2="602.9" class="grid"/>
+<text x="57" y="606.9" class="tick">4</text>
+<line x1="79" y1="588.1" x2="495" y2="588.1" class="grid"/>
+<line x1="79" y1="573.3" x2="495" y2="573.3" class="grid"/>
+<text x="57" y="577.3" class="tick">6</text>
+<line x1="79" y1="558.5" x2="495" y2="558.5" class="grid"/>
+<line x1="79" y1="543.7" x2="495" y2="543.7" class="grid"/>
+<text x="57" y="547.7" class="tick">8</text>
+<line x1="79" y1="528.9" x2="495" y2="528.9" class="grid"/>
+<line x1="79" y1="514.1" x2="495" y2="514.1" class="grid"/>
+<text x="57" y="518.1" class="tick">10</text>
+<line x1="79" y1="499.4" x2="495" y2="499.4" class="grid"/>
+<line x1="79" y1="484.6" x2="495" y2="484.6" class="grid"/>
+<text x="57" y="488.6" class="tick">12</text>
+<line x1="79" y1="469.8" x2="495" y2="469.8" class="grid"/>
+<line x1="79" y1="455.0" x2="495" y2="455.0" class="grid"/>
+<text x="57" y="459.0" class="tick">14</text>
+<line x1="79" y1="662" x2="495" y2="662" class="axis"/>
+<text x="72.0" y="680" class="tick">10</text>
+<text x="113.6" y="680" class="tick">12</text>
+<text x="155.2" y="680" class="tick">14</text>
+<text x="196.8" y="680" class="tick">16</text>
+<text x="238.4" y="680" class="tick">18</text>
+<text x="280.0" y="680" class="tick">20</text>
+<text x="321.6" y="680" class="tick">22</text>
+<text x="363.2" y="680" class="tick">24</text>
+<text x="404.8" y="680" class="tick">26</text>
+<text x="446.4" y="680" class="tick">28</text>
+<text x="488.0" y="680" class="tick">30</text>
+<polyline points="79.0,558.5 120.6,543.7 162.2,528.9 203.8,514.1 245.4,499.4 287.0,499.4 328.6,484.6 370.2,469.8 411.8,469.8 453.4,469.8 495.0,455.0" fill="none" stroke="#1675b8" stroke-width="2.8"/>
+<circle cx="79.0" cy="558.5" r="4" fill="#1675b8"/>
+<circle cx="120.6" cy="543.7" r="4" fill="#1675b8"/>
+<circle cx="162.2" cy="528.9" r="4" fill="#1675b8"/>
+<circle cx="203.8" cy="514.1" r="4" fill="#1675b8"/>
+<circle cx="245.4" cy="499.4" r="4" fill="#1675b8"/>
+<circle cx="287.0" cy="499.4" r="4" fill="#1675b8"/>
+<circle cx="328.6" cy="484.6" r="4" fill="#1675b8"/>
+<circle cx="370.2" cy="469.8" r="4" fill="#1675b8"/>
+<circle cx="411.8" cy="469.8" r="4" fill="#1675b8"/>
+<circle cx="453.4" cy="469.8" r="4" fill="#1675b8"/>
+<circle cx="495.0" cy="455.0" r="4" fill="#1675b8"/>
+<polyline points="79.0,602.9 120.6,558.5 162.2,573.3 203.8,558.5 245.4,528.9 287.0,499.4 328.6,528.9 370.2,499.4 411.8,499.4 453.4,484.6 495.0,455.0" fill="none" stroke="#d44b34" stroke-width="2.8"/>
+<circle cx="79.0" cy="602.9" r="4" fill="#d44b34"/>
+<circle cx="120.6" cy="558.5" r="4" fill="#d44b34"/>
+<circle cx="162.2" cy="573.3" r="4" fill="#d44b34"/>
+<circle cx="203.8" cy="558.5" r="4" fill="#d44b34"/>
+<circle cx="245.4" cy="528.9" r="4" fill="#d44b34"/>
+<circle cx="287.0" cy="499.4" r="4" fill="#d44b34"/>
+<circle cx="328.6" cy="528.9" r="4" fill="#d44b34"/>
+<circle cx="370.2" cy="499.4" r="4" fill="#d44b34"/>
+<circle cx="411.8" cy="499.4" r="4" fill="#d44b34"/>
+<circle cx="453.4" cy="484.6" r="4" fill="#d44b34"/>
+<circle cx="495.0" cy="455.0" r="4" fill="#d44b34"/>
+<text x="540" y="434" class="label">G32_p55_s7: n=32, m=291</text>
+<line x1="589" y1="662.0" x2="1005" y2="662.0" class="grid"/>
+<text x="567" y="666.0" class="tick">0</text>
+<line x1="589" y1="647.2" x2="1005" y2="647.2" class="grid"/>
+<line x1="589" y1="632.4" x2="1005" y2="632.4" class="grid"/>
+<text x="567" y="636.4" class="tick">2</text>
+<line x1="589" y1="617.6" x2="1005" y2="617.6" class="grid"/>
+<line x1="589" y1="602.9" x2="1005" y2="602.9" class="grid"/>
+<text x="567" y="606.9" class="tick">4</text>
+<line x1="589" y1="588.1" x2="1005" y2="588.1" class="grid"/>
+<line x1="589" y1="573.3" x2="1005" y2="573.3" class="grid"/>
+<text x="567" y="577.3" class="tick">6</text>
+<line x1="589" y1="558.5" x2="1005" y2="558.5" class="grid"/>
+<line x1="589" y1="543.7" x2="1005" y2="543.7" class="grid"/>
+<text x="567" y="547.7" class="tick">8</text>
+<line x1="589" y1="528.9" x2="1005" y2="528.9" class="grid"/>
+<line x1="589" y1="514.1" x2="1005" y2="514.1" class="grid"/>
+<text x="567" y="518.1" class="tick">10</text>
+<line x1="589" y1="499.4" x2="1005" y2="499.4" class="grid"/>
+<line x1="589" y1="484.6" x2="1005" y2="484.6" class="grid"/>
+<text x="567" y="488.6" class="tick">12</text>
+<line x1="589" y1="469.8" x2="1005" y2="469.8" class="grid"/>
+<line x1="589" y1="455.0" x2="1005" y2="455.0" class="grid"/>
+<text x="567" y="459.0" class="tick">14</text>
+<line x1="589" y1="662" x2="1005" y2="662" class="axis"/>
+<text x="582.0" y="680" class="tick">10</text>
+<text x="623.6" y="680" class="tick">12</text>
+<text x="665.2" y="680" class="tick">14</text>
+<text x="706.8" y="680" class="tick">16</text>
+<text x="748.4" y="680" class="tick">18</text>
+<text x="790.0" y="680" class="tick">20</text>
+<text x="831.6" y="680" class="tick">22</text>
+<text x="873.2" y="680" class="tick">24</text>
+<text x="914.8" y="680" class="tick">26</text>
+<text x="956.4" y="680" class="tick">28</text>
+<text x="998.0" y="680" class="tick">30</text>
+<polyline points="589.0,543.7 630.6,528.9 672.2,514.1 713.8,499.4 755.4,499.4 797.0,484.6 838.6,484.6 880.2,469.8 921.8,469.8 963.4,455.0 1005.0,469.8" fill="none" stroke="#1675b8" stroke-width="2.8"/>
+<circle cx="589.0" cy="543.7" r="4" fill="#1675b8"/>
+<circle cx="630.6" cy="528.9" r="4" fill="#1675b8"/>
+<circle cx="672.2" cy="514.1" r="4" fill="#1675b8"/>
+<circle cx="713.8" cy="499.4" r="4" fill="#1675b8"/>
+<circle cx="755.4" cy="499.4" r="4" fill="#1675b8"/>
+<circle cx="797.0" cy="484.6" r="4" fill="#1675b8"/>
+<circle cx="838.6" cy="484.6" r="4" fill="#1675b8"/>
+<circle cx="880.2" cy="469.8" r="4" fill="#1675b8"/>
+<circle cx="921.8" cy="469.8" r="4" fill="#1675b8"/>
+<circle cx="963.4" cy="455.0" r="4" fill="#1675b8"/>
+<circle cx="1005.0" cy="469.8" r="4" fill="#1675b8"/>
+<polyline points="589.0,573.3 630.6,558.5 672.2,558.5 713.8,514.1 755.4,528.9 797.0,528.9 838.6,499.4 880.2,484.6 921.8,484.6 963.4,455.0 1005.0,469.8" fill="none" stroke="#d44b34" stroke-width="2.8"/>
+<circle cx="589.0" cy="573.3" r="4" fill="#d44b34"/>
+<circle cx="630.6" cy="558.5" r="4" fill="#d44b34"/>
+<circle cx="672.2" cy="558.5" r="4" fill="#d44b34"/>
+<circle cx="713.8" cy="514.1" r="4" fill="#d44b34"/>
+<circle cx="755.4" cy="528.9" r="4" fill="#d44b34"/>
+<circle cx="797.0" cy="528.9" r="4" fill="#d44b34"/>
+<circle cx="838.6" cy="499.4" r="4" fill="#d44b34"/>
+<circle cx="880.2" cy="484.6" r="4" fill="#d44b34"/>
+<circle cx="921.8" cy="484.6" r="4" fill="#d44b34"/>
+<circle cx="963.4" cy="455.0" r="4" fill="#d44b34"/>
+<circle cx="1005.0" cy="469.8" r="4" fill="#d44b34"/>
+</svg>
